@@ -234,4 +234,5 @@ mod private {
 }
 
 mod eeprom24x;
+mod storage;
 mod slave_addr;
